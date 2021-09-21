@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @xero-pc (Peter Channon)
+- 👀 I’m interested in Software Development, People, Learning, Fitness and Culture
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on Architecture Design on large scale Event Driven Applications
+- 📫 How to reach me on slack (@pc)
